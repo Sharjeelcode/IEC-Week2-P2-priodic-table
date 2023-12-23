@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+table{
+    margin-top: 5vh;
+}
+table tr td{
+    text-align: center;
+    width: 100px;
+    height: 60px;
+    font-size: 12px;
+}
+.red{
+    background: linear-gradient(45deg,red, rgb(129, 107, 107));
+}
+.orange{
+    background: linear-gradient(45deg,rgb(253, 114, 0), rgb(192, 138, 100));
+}
+.ice-blue{
+    background: linear-gradient(45deg,aqua, rgb(46, 163, 184));
+}
+.blue{
+    background: linear-gradient(45deg,rgb(18, 81, 208), rgb(130, 154, 229));
+}
+.pink{
+    background: linear-gradient(45deg,rgb(208, 18, 107), rgb(190, 82, 194));
+}
+.low-red{
+    background: linear-gradient(45deg,rgb(124, 40, 40), rgb(217, 148, 148));
+}
+.light-green{
+    background: linear-gradient(45deg,rgb(28, 170, 92), rgb(148, 193, 173));
+}
+.green{
+    background: linear-gradient(45deg,rgb(4, 249, 45), rgb(117, 199, 141));
+}
